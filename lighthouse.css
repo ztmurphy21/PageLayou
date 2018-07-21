@@ -25,7 +25,7 @@ header{
 }
 
 h1{
-    margin-bottom: 20px;
+    margin-bottom: 0px;
 }
 
 nav{
@@ -50,8 +50,16 @@ footer{
     clear: both;
 }
 
+#tagline{
+    padding-right: 20px;
+    text-align: right;
+    color: #00005D;
+    font-size: .80em;
+}
+
 h2{
     color: #869DC7;
+    font-size: 200%;
     font-family: Arial, sans-serif;
 }
 
